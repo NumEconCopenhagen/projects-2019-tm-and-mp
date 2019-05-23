@@ -26,6 +26,18 @@ Next, we solve the Solow-model with land using SymPy
 
 Finally, we use a bisection method to calculate the steady state level of capital.
 
+# Examproject
+
+**Created by: Martin Broberg Pedersen (RQX492) and Thomas Midjord (DGZ536)**
+
+This folder contains our solution to the exam project
+
+The exam project solves three economic problems:
+
+1. Human capital accumulation
+2. AS-AD model
+3. Exchange economy
+
 A short description of the files and folders:
 
 * [README.md](/README.md): gives a short introduction to your project. You should change this file so it gives an introduction to what your repository consists of, and how to run the code to get your output. The present README file is always present on [github](https://www.github.com/numeconcopenhagen/numeconcopenhagen-2018/blob/master/README.md).
