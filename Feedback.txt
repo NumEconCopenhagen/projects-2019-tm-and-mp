@@ -1,0 +1,21 @@
+Peer feedback
+
+Martin Broberg Pedersen (rqx492):
+
+- Data project:
+vem: https://github.com/NumEconCopenhagen/projects-2019-vem/issues/5
+hyggerbare: https://github.com/NumEconCopenhagen/projects-2019-hyggerbare/issues/4
+
+- Model project:
+BCG: https://github.com/NumEconCopenhagen/projects-2019-bcg/issues/6
+Den usynlige fod: https://github.com/NumEconCopenhagen/projects-2019-den-usynlige-fod/issues/7
+
+Thomas Midjord (dgz536):
+
+- Data project:
+Tobias_Jacob_Sandru: https://github.com/NumEconCopenhagen/projects-2019-tobias_jacob_sandru/issues/6
+Computer Says No: https://github.com/NumEconCopenhagen/projects-2019-computer-says-no/issues/4
+
+- Model project:
+MEC: https://github.com/NumEconCopenhagen/projects-2019-mec/issues/12
+TBA: https://github.com/NumEconCopenhagen/projects-2019-tba/issues/13
