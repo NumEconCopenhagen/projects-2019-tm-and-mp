@@ -8,6 +8,8 @@ We start by solving the basic Solow-model.
   These sliders does not work in GitHub, but by opening the notebook in Anaconda-Navigator as a Jupyter Notebook the sliders      
   work fine.
   
-Next, we solve the Solow-model with land.
+Next, we solve the Solow-model with land using SymPy
 - Finding the FOC
 - Finding steady state values for z and y
+
+Finally, we use a bisection method to calculate the steady state level of capital.
