@@ -26,7 +26,7 @@ Next, we solve the Solow-model with land using SymPy
 
 Finally, we use a bisection method to calculate the steady state level of capital.
 
-# Examproject
+## Examproject
 
 **Created by: Martin Broberg Pedersen (RQX492) and Thomas Midjord (DGZ536)**
 
